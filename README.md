@@ -1,5 +1,10 @@
 # 🚀 Three-Tier Application Deployment on Kubernetes (Minikube)
+## 👨‍💻 Author
 
+Saadi  
+DevOps Engineer | Cloud Enthusiast  
+
+Skills: Docker • Kubernetes • AWS • CI/CD • Linux
 ## 📌 Project Overview
 
 This project demonstrates deployment of a **3-tier cloud-native application** on Kubernetes using:
